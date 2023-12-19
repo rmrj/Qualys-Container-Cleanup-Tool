@@ -1,4 +1,3 @@
-# Qualys-Container-Cleanup-Tool
 # Qualys Container Cleanup Tool
 
 ## Overview
