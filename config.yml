@@ -1,0 +1,6 @@
+defaults:
+  pageSize: 1000
+  apiURL: "https://gateway.qg2.apps.qualys.com"
+  exitOnError: False
+  threadCount: 8
+  
